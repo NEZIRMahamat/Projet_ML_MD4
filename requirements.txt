@@ -1,0 +1,11 @@
+Package                      Version
+---------------------------- --------------
+jupyter-notebook
+matplotlib                   3.10.3
+pandas                       2.2.3
+pip                          25.1.1
+scikit-learn                 1.6.1
+seaborn                      0.13.2
+sentence-transformers        4.1.0
+transformers                 4.51.3
+ 
